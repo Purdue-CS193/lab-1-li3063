@@ -1,3 +1,9 @@
+# Matthew Li's first CS193 Lab
+- It is taught by students just like me who can share similar experiences
+- There are a lot of useful tips that I can learn
+- I can complete my assignments while having instructors around if I need help
+- It is a hands on coding class in CS
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
